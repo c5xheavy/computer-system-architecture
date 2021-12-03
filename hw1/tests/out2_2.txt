@@ -1,5 +1,0 @@
-Sorted container:
-Container contains 3 elements.
-0: It is Tetrahedron: a = 1. Volume = 0.117851
-1: It is Parallelepiped: a = 1, b = 1, c = 1. Volume = 1
-2: It is Sphere: r = 1. Volume = 4.18879
