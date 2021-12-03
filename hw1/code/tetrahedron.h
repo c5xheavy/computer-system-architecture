@@ -5,8 +5,7 @@
 using namespace std;
 
 #include "rnd.h"
-
-const long double sqrt2 = 1.41421356237;
+#include "constants.h"
 
 struct tetrahedron {
 	int a; 

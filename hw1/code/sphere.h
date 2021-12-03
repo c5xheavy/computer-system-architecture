@@ -5,8 +5,7 @@
 using namespace std;
 
 #include "rnd.h"
-
-const long double pi = 3.141592653;
+#include "constants.h"
 
 struct sphere {
 	int r; 
