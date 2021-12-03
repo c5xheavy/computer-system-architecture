@@ -1,0 +1,1002 @@
+Sorted container:
+Container contains 1000 elements.
+0: It is Tetrahedron: a = 1. Volume = 0.117851
+1: It is Tetrahedron: a = 1. Volume = 0.117851
+2: It is Tetrahedron: a = 1. Volume = 0.117851
+3: It is Tetrahedron: a = 1. Volume = 0.117851
+4: It is Tetrahedron: a = 1. Volume = 0.117851
+5: It is Tetrahedron: a = 1. Volume = 0.117851
+6: It is Tetrahedron: a = 1. Volume = 0.117851
+7: It is Tetrahedron: a = 1. Volume = 0.117851
+8: It is Tetrahedron: a = 1. Volume = 0.117851
+9: It is Tetrahedron: a = 1. Volume = 0.117851
+10: It is Tetrahedron: a = 1. Volume = 0.117851
+11: It is Tetrahedron: a = 1. Volume = 0.117851
+12: It is Tetrahedron: a = 1. Volume = 0.117851
+13: It is Tetrahedron: a = 1. Volume = 0.117851
+14: It is Tetrahedron: a = 1. Volume = 0.117851
+15: It is Tetrahedron: a = 1. Volume = 0.117851
+16: It is Tetrahedron: a = 1. Volume = 0.117851
+17: It is Tetrahedron: a = 2. Volume = 0.942809
+18: It is Tetrahedron: a = 2. Volume = 0.942809
+19: It is Tetrahedron: a = 2. Volume = 0.942809
+20: It is Tetrahedron: a = 2. Volume = 0.942809
+21: It is Tetrahedron: a = 2. Volume = 0.942809
+22: It is Tetrahedron: a = 2. Volume = 0.942809
+23: It is Tetrahedron: a = 2. Volume = 0.942809
+24: It is Tetrahedron: a = 2. Volume = 0.942809
+25: It is Tetrahedron: a = 2. Volume = 0.942809
+26: It is Tetrahedron: a = 2. Volume = 0.942809
+27: It is Tetrahedron: a = 2. Volume = 0.942809
+28: It is Tetrahedron: a = 2. Volume = 0.942809
+29: It is Tetrahedron: a = 2. Volume = 0.942809
+30: It is Tetrahedron: a = 2. Volume = 0.942809
+31: It is Tetrahedron: a = 2. Volume = 0.942809
+32: It is Tetrahedron: a = 3. Volume = 3.18198
+33: It is Tetrahedron: a = 3. Volume = 3.18198
+34: It is Tetrahedron: a = 3. Volume = 3.18198
+35: It is Tetrahedron: a = 3. Volume = 3.18198
+36: It is Tetrahedron: a = 3. Volume = 3.18198
+37: It is Tetrahedron: a = 3. Volume = 3.18198
+38: It is Tetrahedron: a = 3. Volume = 3.18198
+39: It is Tetrahedron: a = 3. Volume = 3.18198
+40: It is Tetrahedron: a = 3. Volume = 3.18198
+41: It is Tetrahedron: a = 3. Volume = 3.18198
+42: It is Tetrahedron: a = 3. Volume = 3.18198
+43: It is Tetrahedron: a = 3. Volume = 3.18198
+44: It is Tetrahedron: a = 3. Volume = 3.18198
+45: It is Tetrahedron: a = 3. Volume = 3.18198
+46: It is Tetrahedron: a = 3. Volume = 3.18198
+47: It is Tetrahedron: a = 3. Volume = 3.18198
+48: It is Tetrahedron: a = 3. Volume = 3.18198
+49: It is Tetrahedron: a = 3. Volume = 3.18198
+50: It is Tetrahedron: a = 3. Volume = 3.18198
+51: It is Tetrahedron: a = 3. Volume = 3.18198
+52: It is Sphere: r = 1. Volume = 4.18879
+53: It is Sphere: r = 1. Volume = 4.18879
+54: It is Sphere: r = 1. Volume = 4.18879
+55: It is Sphere: r = 1. Volume = 4.18879
+56: It is Sphere: r = 1. Volume = 4.18879
+57: It is Sphere: r = 1. Volume = 4.18879
+58: It is Sphere: r = 1. Volume = 4.18879
+59: It is Sphere: r = 1. Volume = 4.18879
+60: It is Sphere: r = 1. Volume = 4.18879
+61: It is Sphere: r = 1. Volume = 4.18879
+62: It is Sphere: r = 1. Volume = 4.18879
+63: It is Sphere: r = 1. Volume = 4.18879
+64: It is Sphere: r = 1. Volume = 4.18879
+65: It is Sphere: r = 1. Volume = 4.18879
+66: It is Sphere: r = 1. Volume = 4.18879
+67: It is Sphere: r = 1. Volume = 4.18879
+68: It is Sphere: r = 1. Volume = 4.18879
+69: It is Sphere: r = 1. Volume = 4.18879
+70: It is Sphere: r = 1. Volume = 4.18879
+71: It is Sphere: r = 1. Volume = 4.18879
+72: It is Sphere: r = 1. Volume = 4.18879
+73: It is Sphere: r = 1. Volume = 4.18879
+74: It is Parallelepiped: a = 1, b = 1, c = 7. Volume = 7
+75: It is Tetrahedron: a = 4. Volume = 7.54247
+76: It is Tetrahedron: a = 4. Volume = 7.54247
+77: It is Tetrahedron: a = 4. Volume = 7.54247
+78: It is Tetrahedron: a = 4. Volume = 7.54247
+79: It is Tetrahedron: a = 4. Volume = 7.54247
+80: It is Tetrahedron: a = 4. Volume = 7.54247
+81: It is Tetrahedron: a = 4. Volume = 7.54247
+82: It is Tetrahedron: a = 4. Volume = 7.54247
+83: It is Tetrahedron: a = 4. Volume = 7.54247
+84: It is Tetrahedron: a = 4. Volume = 7.54247
+85: It is Tetrahedron: a = 4. Volume = 7.54247
+86: It is Tetrahedron: a = 4. Volume = 7.54247
+87: It is Tetrahedron: a = 4. Volume = 7.54247
+88: It is Tetrahedron: a = 4. Volume = 7.54247
+89: It is Tetrahedron: a = 4. Volume = 7.54247
+90: It is Tetrahedron: a = 4. Volume = 7.54247
+91: It is Tetrahedron: a = 4. Volume = 7.54247
+92: It is Tetrahedron: a = 4. Volume = 7.54247
+93: It is Tetrahedron: a = 4. Volume = 7.54247
+94: It is Tetrahedron: a = 4. Volume = 7.54247
+95: It is Tetrahedron: a = 4. Volume = 7.54247
+96: It is Parallelepiped: a = 2, b = 2, c = 3. Volume = 12
+97: It is Tetrahedron: a = 5. Volume = 14.7314
+98: It is Tetrahedron: a = 5. Volume = 14.7314
+99: It is Tetrahedron: a = 5. Volume = 14.7314
+100: It is Tetrahedron: a = 5. Volume = 14.7314
+101: It is Tetrahedron: a = 5. Volume = 14.7314
+102: It is Tetrahedron: a = 5. Volume = 14.7314
+103: It is Tetrahedron: a = 5. Volume = 14.7314
+104: It is Tetrahedron: a = 5. Volume = 14.7314
+105: It is Tetrahedron: a = 5. Volume = 14.7314
+106: It is Tetrahedron: a = 5. Volume = 14.7314
+107: It is Tetrahedron: a = 5. Volume = 14.7314
+108: It is Tetrahedron: a = 5. Volume = 14.7314
+109: It is Tetrahedron: a = 5. Volume = 14.7314
+110: It is Tetrahedron: a = 5. Volume = 14.7314
+111: It is Tetrahedron: a = 5. Volume = 14.7314
+112: It is Tetrahedron: a = 5. Volume = 14.7314
+113: It is Tetrahedron: a = 5. Volume = 14.7314
+114: It is Tetrahedron: a = 5. Volume = 14.7314
+115: It is Tetrahedron: a = 5. Volume = 14.7314
+116: It is Tetrahedron: a = 5. Volume = 14.7314
+117: It is Parallelepiped: a = 2, b = 9, c = 1. Volume = 18
+118: It is Parallelepiped: a = 11, b = 2, c = 1. Volume = 22
+119: It is Tetrahedron: a = 6. Volume = 25.4558
+120: It is Tetrahedron: a = 6. Volume = 25.4558
+121: It is Tetrahedron: a = 6. Volume = 25.4558
+122: It is Tetrahedron: a = 6. Volume = 25.4558
+123: It is Tetrahedron: a = 6. Volume = 25.4558
+124: It is Tetrahedron: a = 6. Volume = 25.4558
+125: It is Tetrahedron: a = 6. Volume = 25.4558
+126: It is Tetrahedron: a = 6. Volume = 25.4558
+127: It is Tetrahedron: a = 6. Volume = 25.4558
+128: It is Tetrahedron: a = 6. Volume = 25.4558
+129: It is Tetrahedron: a = 6. Volume = 25.4558
+130: It is Tetrahedron: a = 6. Volume = 25.4558
+131: It is Parallelepiped: a = 6, b = 5, c = 1. Volume = 30
+132: It is Parallelepiped: a = 2, b = 1, c = 16. Volume = 32
+133: It is Parallelepiped: a = 3, b = 11, c = 1. Volume = 33
+134: It is Sphere: r = 2. Volume = 33.5103
+135: It is Sphere: r = 2. Volume = 33.5103
+136: It is Sphere: r = 2. Volume = 33.5103
+137: It is Sphere: r = 2. Volume = 33.5103
+138: It is Sphere: r = 2. Volume = 33.5103
+139: It is Sphere: r = 2. Volume = 33.5103
+140: It is Sphere: r = 2. Volume = 33.5103
+141: It is Sphere: r = 2. Volume = 33.5103
+142: It is Sphere: r = 2. Volume = 33.5103
+143: It is Sphere: r = 2. Volume = 33.5103
+144: It is Sphere: r = 2. Volume = 33.5103
+145: It is Sphere: r = 2. Volume = 33.5103
+146: It is Sphere: r = 2. Volume = 33.5103
+147: It is Sphere: r = 2. Volume = 33.5103
+148: It is Tetrahedron: a = 7. Volume = 40.4229
+149: It is Tetrahedron: a = 7. Volume = 40.4229
+150: It is Tetrahedron: a = 7. Volume = 40.4229
+151: It is Tetrahedron: a = 7. Volume = 40.4229
+152: It is Tetrahedron: a = 7. Volume = 40.4229
+153: It is Tetrahedron: a = 7. Volume = 40.4229
+154: It is Tetrahedron: a = 7. Volume = 40.4229
+155: It is Tetrahedron: a = 7. Volume = 40.4229
+156: It is Tetrahedron: a = 7. Volume = 40.4229
+157: It is Tetrahedron: a = 7. Volume = 40.4229
+158: It is Tetrahedron: a = 7. Volume = 40.4229
+159: It is Tetrahedron: a = 7. Volume = 40.4229
+160: It is Tetrahedron: a = 7. Volume = 40.4229
+161: It is Tetrahedron: a = 7. Volume = 40.4229
+162: It is Tetrahedron: a = 7. Volume = 40.4229
+163: It is Tetrahedron: a = 7. Volume = 40.4229
+164: It is Tetrahedron: a = 7. Volume = 40.4229
+165: It is Tetrahedron: a = 7. Volume = 40.4229
+166: It is Tetrahedron: a = 7. Volume = 40.4229
+167: It is Tetrahedron: a = 7. Volume = 40.4229
+168: It is Tetrahedron: a = 7. Volume = 40.4229
+169: It is Parallelepiped: a = 1, b = 5, c = 9. Volume = 45
+170: It is Parallelepiped: a = 8, b = 3, c = 2. Volume = 48
+171: It is Parallelepiped: a = 9, b = 2, c = 3. Volume = 54
+172: It is Parallelepiped: a = 2, b = 3, c = 9. Volume = 54
+173: It is Parallelepiped: a = 8, b = 1, c = 7. Volume = 56
+174: It is Parallelepiped: a = 1, b = 19, c = 3. Volume = 57
+175: It is Parallelepiped: a = 19, b = 1, c = 3. Volume = 57
+176: It is Parallelepiped: a = 5, b = 4, c = 3. Volume = 60
+177: It is Parallelepiped: a = 1, b = 6, c = 10. Volume = 60
+178: It is Tetrahedron: a = 8. Volume = 60.3398
+179: It is Tetrahedron: a = 8. Volume = 60.3398
+180: It is Tetrahedron: a = 8. Volume = 60.3398
+181: It is Tetrahedron: a = 8. Volume = 60.3398
+182: It is Tetrahedron: a = 8. Volume = 60.3398
+183: It is Tetrahedron: a = 8. Volume = 60.3398
+184: It is Tetrahedron: a = 8. Volume = 60.3398
+185: It is Tetrahedron: a = 8. Volume = 60.3398
+186: It is Tetrahedron: a = 8. Volume = 60.3398
+187: It is Tetrahedron: a = 8. Volume = 60.3398
+188: It is Tetrahedron: a = 8. Volume = 60.3398
+189: It is Tetrahedron: a = 8. Volume = 60.3398
+190: It is Tetrahedron: a = 8. Volume = 60.3398
+191: It is Tetrahedron: a = 8. Volume = 60.3398
+192: It is Tetrahedron: a = 8. Volume = 60.3398
+193: It is Tetrahedron: a = 8. Volume = 60.3398
+194: It is Tetrahedron: a = 8. Volume = 60.3398
+195: It is Tetrahedron: a = 8. Volume = 60.3398
+196: It is Parallelepiped: a = 2, b = 8, c = 4. Volume = 64
+197: It is Parallelepiped: a = 8, b = 1, c = 8. Volume = 64
+198: It is Parallelepiped: a = 1, b = 5, c = 14. Volume = 70
+199: It is Parallelepiped: a = 5, b = 2, c = 7. Volume = 70
+200: It is Parallelepiped: a = 9, b = 8, c = 1. Volume = 72
+201: It is Parallelepiped: a = 2, b = 6, c = 6. Volume = 72
+202: It is Parallelepiped: a = 18, b = 2, c = 2. Volume = 72
+203: It is Parallelepiped: a = 15, b = 5, c = 1. Volume = 75
+204: It is Parallelepiped: a = 2, b = 19, c = 2. Volume = 76
+205: It is Parallelepiped: a = 13, b = 1, c = 6. Volume = 78
+206: It is Parallelepiped: a = 10, b = 1, c = 8. Volume = 80
+207: It is Parallelepiped: a = 10, b = 8, c = 1. Volume = 80
+208: It is Parallelepiped: a = 16, b = 1, c = 5. Volume = 80
+209: It is Tetrahedron: a = 9. Volume = 85.9135
+210: It is Tetrahedron: a = 9. Volume = 85.9135
+211: It is Tetrahedron: a = 9. Volume = 85.9135
+212: It is Tetrahedron: a = 9. Volume = 85.9135
+213: It is Tetrahedron: a = 9. Volume = 85.9135
+214: It is Tetrahedron: a = 9. Volume = 85.9135
+215: It is Tetrahedron: a = 9. Volume = 85.9135
+216: It is Tetrahedron: a = 9. Volume = 85.9135
+217: It is Tetrahedron: a = 9. Volume = 85.9135
+218: It is Tetrahedron: a = 9. Volume = 85.9135
+219: It is Tetrahedron: a = 9. Volume = 85.9135
+220: It is Tetrahedron: a = 9. Volume = 85.9135
+221: It is Tetrahedron: a = 9. Volume = 85.9135
+222: It is Parallelepiped: a = 7, b = 1, c = 13. Volume = 91
+223: It is Parallelepiped: a = 16, b = 6, c = 1. Volume = 96
+224: It is Parallelepiped: a = 6, b = 2, c = 8. Volume = 96
+225: It is Parallelepiped: a = 1, b = 11, c = 9. Volume = 99
+226: It is Parallelepiped: a = 10, b = 10, c = 1. Volume = 100
+227: It is Parallelepiped: a = 8, b = 1, c = 13. Volume = 104
+228: It is Parallelepiped: a = 13, b = 1, c = 8. Volume = 104
+229: It is Parallelepiped: a = 8, b = 1, c = 13. Volume = 104
+230: It is Parallelepiped: a = 2, b = 3, c = 18. Volume = 108
+231: It is Parallelepiped: a = 18, b = 3, c = 2. Volume = 108
+232: It is Parallelepiped: a = 11, b = 2, c = 5. Volume = 110
+233: It is Parallelepiped: a = 7, b = 4, c = 4. Volume = 112
+234: It is Sphere: r = 3. Volume = 113.097
+235: It is Sphere: r = 3. Volume = 113.097
+236: It is Sphere: r = 3. Volume = 113.097
+237: It is Sphere: r = 3. Volume = 113.097
+238: It is Sphere: r = 3. Volume = 113.097
+239: It is Sphere: r = 3. Volume = 113.097
+240: It is Sphere: r = 3. Volume = 113.097
+241: It is Sphere: r = 3. Volume = 113.097
+242: It is Sphere: r = 3. Volume = 113.097
+243: It is Sphere: r = 3. Volume = 113.097
+244: It is Sphere: r = 3. Volume = 113.097
+245: It is Sphere: r = 3. Volume = 113.097
+246: It is Parallelepiped: a = 3, b = 2, c = 19. Volume = 114
+247: It is Tetrahedron: a = 10. Volume = 117.851
+248: It is Tetrahedron: a = 10. Volume = 117.851
+249: It is Tetrahedron: a = 10. Volume = 117.851
+250: It is Tetrahedron: a = 10. Volume = 117.851
+251: It is Tetrahedron: a = 10. Volume = 117.851
+252: It is Tetrahedron: a = 10. Volume = 117.851
+253: It is Tetrahedron: a = 10. Volume = 117.851
+254: It is Tetrahedron: a = 10. Volume = 117.851
+255: It is Tetrahedron: a = 10. Volume = 117.851
+256: It is Tetrahedron: a = 10. Volume = 117.851
+257: It is Tetrahedron: a = 10. Volume = 117.851
+258: It is Tetrahedron: a = 10. Volume = 117.851
+259: It is Tetrahedron: a = 10. Volume = 117.851
+260: It is Tetrahedron: a = 10. Volume = 117.851
+261: It is Tetrahedron: a = 10. Volume = 117.851
+262: It is Parallelepiped: a = 15, b = 4, c = 2. Volume = 120
+263: It is Parallelepiped: a = 5, b = 3, c = 8. Volume = 120
+264: It is Parallelepiped: a = 6, b = 7, c = 3. Volume = 126
+265: It is Parallelepiped: a = 1, b = 7, c = 18. Volume = 126
+266: It is Parallelepiped: a = 1, b = 7, c = 18. Volume = 126
+267: It is Parallelepiped: a = 6, b = 3, c = 7. Volume = 126
+268: It is Parallelepiped: a = 8, b = 8, c = 2. Volume = 128
+269: It is Parallelepiped: a = 2, b = 4, c = 16. Volume = 128
+270: It is Parallelepiped: a = 10, b = 13, c = 1. Volume = 130
+271: It is Parallelepiped: a = 9, b = 5, c = 3. Volume = 135
+272: It is Parallelepiped: a = 8, b = 17, c = 1. Volume = 136
+273: It is Parallelepiped: a = 17, b = 8, c = 1. Volume = 136
+274: It is Parallelepiped: a = 12, b = 2, c = 6. Volume = 144
+275: It is Parallelepiped: a = 4, b = 12, c = 3. Volume = 144
+276: It is Parallelepiped: a = 15, b = 1, c = 10. Volume = 150
+277: It is Parallelepiped: a = 2, b = 15, c = 5. Volume = 150
+278: It is Parallelepiped: a = 17, b = 3, c = 3. Volume = 153
+279: It is Parallelepiped: a = 11, b = 1, c = 14. Volume = 154
+280: It is Parallelepiped: a = 12, b = 1, c = 13. Volume = 156
+281: It is Tetrahedron: a = 11. Volume = 156.86
+282: It is Tetrahedron: a = 11. Volume = 156.86
+283: It is Tetrahedron: a = 11. Volume = 156.86
+284: It is Tetrahedron: a = 11. Volume = 156.86
+285: It is Tetrahedron: a = 11. Volume = 156.86
+286: It is Tetrahedron: a = 11. Volume = 156.86
+287: It is Tetrahedron: a = 11. Volume = 156.86
+288: It is Tetrahedron: a = 11. Volume = 156.86
+289: It is Tetrahedron: a = 11. Volume = 156.86
+290: It is Tetrahedron: a = 11. Volume = 156.86
+291: It is Tetrahedron: a = 11. Volume = 156.86
+292: It is Tetrahedron: a = 11. Volume = 156.86
+293: It is Tetrahedron: a = 11. Volume = 156.86
+294: It is Tetrahedron: a = 11. Volume = 156.86
+295: It is Tetrahedron: a = 11. Volume = 156.86
+296: It is Tetrahedron: a = 11. Volume = 156.86
+297: It is Tetrahedron: a = 11. Volume = 156.86
+298: It is Tetrahedron: a = 11. Volume = 156.86
+299: It is Tetrahedron: a = 11. Volume = 156.86
+300: It is Parallelepiped: a = 10, b = 16, c = 1. Volume = 160
+301: It is Parallelepiped: a = 5, b = 4, c = 8. Volume = 160
+302: It is Parallelepiped: a = 7, b = 2, c = 12. Volume = 168
+303: It is Parallelepiped: a = 17, b = 2, c = 5. Volume = 170
+304: It is Parallelepiped: a = 1, b = 10, c = 17. Volume = 170
+305: It is Parallelepiped: a = 2, b = 11, c = 8. Volume = 176
+306: It is Parallelepiped: a = 10, b = 18, c = 1. Volume = 180
+307: It is Parallelepiped: a = 6, b = 15, c = 2. Volume = 180
+308: It is Parallelepiped: a = 20, b = 1, c = 9. Volume = 180
+309: It is Parallelepiped: a = 9, b = 3, c = 7. Volume = 189
+310: It is Parallelepiped: a = 19, b = 1, c = 10. Volume = 190
+311: It is Parallelepiped: a = 12, b = 4, c = 4. Volume = 192
+312: It is Parallelepiped: a = 12, b = 2, c = 8. Volume = 192
+313: It is Parallelepiped: a = 6, b = 4, c = 8. Volume = 192
+314: It is Parallelepiped: a = 2, b = 14, c = 7. Volume = 196
+315: It is Parallelepiped: a = 7, b = 7, c = 4. Volume = 196
+316: It is Parallelepiped: a = 2, b = 5, c = 20. Volume = 200
+317: It is Parallelepiped: a = 5, b = 20, c = 2. Volume = 200
+318: It is Tetrahedron: a = 12. Volume = 203.647
+319: It is Tetrahedron: a = 12. Volume = 203.647
+320: It is Tetrahedron: a = 12. Volume = 203.647
+321: It is Tetrahedron: a = 12. Volume = 203.647
+322: It is Tetrahedron: a = 12. Volume = 203.647
+323: It is Tetrahedron: a = 12. Volume = 203.647
+324: It is Tetrahedron: a = 12. Volume = 203.647
+325: It is Tetrahedron: a = 12. Volume = 203.647
+326: It is Tetrahedron: a = 12. Volume = 203.647
+327: It is Tetrahedron: a = 12. Volume = 203.647
+328: It is Tetrahedron: a = 12. Volume = 203.647
+329: It is Tetrahedron: a = 12. Volume = 203.647
+330: It is Tetrahedron: a = 12. Volume = 203.647
+331: It is Tetrahedron: a = 12. Volume = 203.647
+332: It is Parallelepiped: a = 4, b = 4, c = 13. Volume = 208
+333: It is Parallelepiped: a = 3, b = 9, c = 8. Volume = 216
+334: It is Parallelepiped: a = 1, b = 20, c = 11. Volume = 220
+335: It is Parallelepiped: a = 14, b = 1, c = 16. Volume = 224
+336: It is Parallelepiped: a = 3, b = 5, c = 15. Volume = 225
+337: It is Parallelepiped: a = 20, b = 6, c = 2. Volume = 240
+338: It is Parallelepiped: a = 15, b = 4, c = 4. Volume = 240
+339: It is Parallelepiped: a = 10, b = 6, c = 4. Volume = 240
+340: It is Parallelepiped: a = 9, b = 2, c = 14. Volume = 252
+341: It is Parallelepiped: a = 16, b = 8, c = 2. Volume = 256
+342: It is Tetrahedron: a = 13. Volume = 258.919
+343: It is Tetrahedron: a = 13. Volume = 258.919
+344: It is Tetrahedron: a = 13. Volume = 258.919
+345: It is Tetrahedron: a = 13. Volume = 258.919
+346: It is Tetrahedron: a = 13. Volume = 258.919
+347: It is Tetrahedron: a = 13. Volume = 258.919
+348: It is Tetrahedron: a = 13. Volume = 258.919
+349: It is Tetrahedron: a = 13. Volume = 258.919
+350: It is Tetrahedron: a = 13. Volume = 258.919
+351: It is Tetrahedron: a = 13. Volume = 258.919
+352: It is Tetrahedron: a = 13. Volume = 258.919
+353: It is Tetrahedron: a = 13. Volume = 258.919
+354: It is Tetrahedron: a = 13. Volume = 258.919
+355: It is Tetrahedron: a = 13. Volume = 258.919
+356: It is Tetrahedron: a = 13. Volume = 258.919
+357: It is Tetrahedron: a = 13. Volume = 258.919
+358: It is Tetrahedron: a = 13. Volume = 258.919
+359: It is Tetrahedron: a = 13. Volume = 258.919
+360: It is Parallelepiped: a = 5, b = 13, c = 4. Volume = 260
+361: It is Parallelepiped: a = 2, b = 12, c = 11. Volume = 264
+362: It is Sphere: r = 4. Volume = 268.083
+363: It is Sphere: r = 4. Volume = 268.083
+364: It is Sphere: r = 4. Volume = 268.083
+365: It is Sphere: r = 4. Volume = 268.083
+366: It is Sphere: r = 4. Volume = 268.083
+367: It is Sphere: r = 4. Volume = 268.083
+368: It is Sphere: r = 4. Volume = 268.083
+369: It is Sphere: r = 4. Volume = 268.083
+370: It is Sphere: r = 4. Volume = 268.083
+371: It is Sphere: r = 4. Volume = 268.083
+372: It is Sphere: r = 4. Volume = 268.083
+373: It is Sphere: r = 4. Volume = 268.083
+374: It is Sphere: r = 4. Volume = 268.083
+375: It is Sphere: r = 4. Volume = 268.083
+376: It is Sphere: r = 4. Volume = 268.083
+377: It is Parallelepiped: a = 9, b = 6, c = 5. Volume = 270
+378: It is Parallelepiped: a = 2, b = 9, c = 15. Volume = 270
+379: It is Parallelepiped: a = 3, b = 10, c = 9. Volume = 270
+380: It is Parallelepiped: a = 5, b = 6, c = 9. Volume = 270
+381: It is Parallelepiped: a = 9, b = 2, c = 15. Volume = 270
+382: It is Parallelepiped: a = 16, b = 17, c = 1. Volume = 272
+383: It is Parallelepiped: a = 7, b = 13, c = 3. Volume = 273
+384: It is Parallelepiped: a = 7, b = 8, c = 5. Volume = 280
+385: It is Parallelepiped: a = 6, b = 16, c = 3. Volume = 288
+386: It is Parallelepiped: a = 8, b = 12, c = 3. Volume = 288
+387: It is Parallelepiped: a = 20, b = 1, c = 15. Volume = 300
+388: It is Parallelepiped: a = 19, b = 8, c = 2. Volume = 304
+389: It is Parallelepiped: a = 17, b = 6, c = 3. Volume = 306
+390: It is Parallelepiped: a = 2, b = 14, c = 11. Volume = 308
+391: It is Parallelepiped: a = 15, b = 7, c = 3. Volume = 315
+392: It is Parallelepiped: a = 9, b = 5, c = 7. Volume = 315
+393: It is Tetrahedron: a = 14. Volume = 323.384
+394: It is Tetrahedron: a = 14. Volume = 323.384
+395: It is Tetrahedron: a = 14. Volume = 323.384
+396: It is Tetrahedron: a = 14. Volume = 323.384
+397: It is Tetrahedron: a = 14. Volume = 323.384
+398: It is Tetrahedron: a = 14. Volume = 323.384
+399: It is Tetrahedron: a = 14. Volume = 323.384
+400: It is Tetrahedron: a = 14. Volume = 323.384
+401: It is Parallelepiped: a = 9, b = 9, c = 4. Volume = 324
+402: It is Parallelepiped: a = 6, b = 6, c = 9. Volume = 324
+403: It is Parallelepiped: a = 9, b = 4, c = 9. Volume = 324
+404: It is Parallelepiped: a = 11, b = 3, c = 10. Volume = 330
+405: It is Parallelepiped: a = 16, b = 3, c = 7. Volume = 336
+406: It is Parallelepiped: a = 1, b = 20, c = 17. Volume = 340
+407: It is Parallelepiped: a = 18, b = 19, c = 1. Volume = 342
+408: It is Parallelepiped: a = 19, b = 3, c = 6. Volume = 342
+409: It is Parallelepiped: a = 5, b = 8, c = 9. Volume = 360
+410: It is Parallelepiped: a = 10, b = 2, c = 18. Volume = 360
+411: It is Parallelepiped: a = 9, b = 10, c = 4. Volume = 360
+412: It is Parallelepiped: a = 2, b = 10, c = 18. Volume = 360
+413: It is Parallelepiped: a = 6, b = 6, c = 10. Volume = 360
+414: It is Parallelepiped: a = 20, b = 3, c = 6. Volume = 360
+415: It is Parallelepiped: a = 12, b = 2, c = 15. Volume = 360
+416: It is Parallelepiped: a = 4, b = 18, c = 5. Volume = 360
+417: It is Parallelepiped: a = 14, b = 13, c = 2. Volume = 364
+418: It is Parallelepiped: a = 2, b = 11, c = 17. Volume = 374
+419: It is Parallelepiped: a = 8, b = 6, c = 8. Volume = 384
+420: It is Parallelepiped: a = 13, b = 2, c = 15. Volume = 390
+421: It is Parallelepiped: a = 14, b = 14, c = 2. Volume = 392
+422: It is Parallelepiped: a = 2, b = 18, c = 11. Volume = 396
+423: It is Tetrahedron: a = 15. Volume = 397.748
+424: It is Tetrahedron: a = 15. Volume = 397.748
+425: It is Tetrahedron: a = 15. Volume = 397.748
+426: It is Tetrahedron: a = 15. Volume = 397.748
+427: It is Tetrahedron: a = 15. Volume = 397.748
+428: It is Tetrahedron: a = 15. Volume = 397.748
+429: It is Tetrahedron: a = 15. Volume = 397.748
+430: It is Tetrahedron: a = 15. Volume = 397.748
+431: It is Tetrahedron: a = 15. Volume = 397.748
+432: It is Tetrahedron: a = 15. Volume = 397.748
+433: It is Tetrahedron: a = 15. Volume = 397.748
+434: It is Tetrahedron: a = 15. Volume = 397.748
+435: It is Tetrahedron: a = 15. Volume = 397.748
+436: It is Tetrahedron: a = 15. Volume = 397.748
+437: It is Tetrahedron: a = 15. Volume = 397.748
+438: It is Parallelepiped: a = 9, b = 9, c = 5. Volume = 405
+439: It is Parallelepiped: a = 12, b = 17, c = 2. Volume = 408
+440: It is Parallelepiped: a = 4, b = 17, c = 6. Volume = 408
+441: It is Parallelepiped: a = 4, b = 13, c = 8. Volume = 416
+442: It is Parallelepiped: a = 13, b = 11, c = 3. Volume = 429
+443: It is Parallelepiped: a = 3, b = 13, c = 11. Volume = 429
+444: It is Parallelepiped: a = 6, b = 8, c = 9. Volume = 432
+445: It is Parallelepiped: a = 4, b = 10, c = 11. Volume = 440
+446: It is Parallelepiped: a = 5, b = 18, c = 5. Volume = 450
+447: It is Parallelepiped: a = 14, b = 11, c = 3. Volume = 462
+448: It is Parallelepiped: a = 4, b = 13, c = 9. Volume = 468
+449: It is Parallelepiped: a = 12, b = 3, c = 13. Volume = 468
+450: It is Parallelepiped: a = 7, b = 17, c = 4. Volume = 476
+451: It is Parallelepiped: a = 5, b = 16, c = 6. Volume = 480
+452: It is Parallelepiped: a = 8, b = 20, c = 3. Volume = 480
+453: It is Tetrahedron: a = 16. Volume = 482.718
+454: It is Tetrahedron: a = 16. Volume = 482.718
+455: It is Tetrahedron: a = 16. Volume = 482.718
+456: It is Tetrahedron: a = 16. Volume = 482.718
+457: It is Tetrahedron: a = 16. Volume = 482.718
+458: It is Tetrahedron: a = 16. Volume = 482.718
+459: It is Tetrahedron: a = 16. Volume = 482.718
+460: It is Tetrahedron: a = 16. Volume = 482.718
+461: It is Tetrahedron: a = 16. Volume = 482.718
+462: It is Tetrahedron: a = 16. Volume = 482.718
+463: It is Tetrahedron: a = 16. Volume = 482.718
+464: It is Tetrahedron: a = 16. Volume = 482.718
+465: It is Tetrahedron: a = 16. Volume = 482.718
+466: It is Tetrahedron: a = 16. Volume = 482.718
+467: It is Tetrahedron: a = 16. Volume = 482.718
+468: It is Tetrahedron: a = 16. Volume = 482.718
+469: It is Parallelepiped: a = 11, b = 15, c = 3. Volume = 495
+470: It is Parallelepiped: a = 4, b = 9, c = 14. Volume = 504
+471: It is Parallelepiped: a = 9, b = 14, c = 4. Volume = 504
+472: It is Parallelepiped: a = 18, b = 2, c = 14. Volume = 504
+473: It is Parallelepiped: a = 14, b = 6, c = 6. Volume = 504
+474: It is Parallelepiped: a = 5, b = 6, c = 17. Volume = 510
+475: It is Parallelepiped: a = 15, b = 2, c = 17. Volume = 510
+476: It is Parallelepiped: a = 13, b = 10, c = 4. Volume = 520
+477: It is Sphere: r = 5. Volume = 523.599
+478: It is Sphere: r = 5. Volume = 523.599
+479: It is Sphere: r = 5. Volume = 523.599
+480: It is Sphere: r = 5. Volume = 523.599
+481: It is Sphere: r = 5. Volume = 523.599
+482: It is Sphere: r = 5. Volume = 523.599
+483: It is Sphere: r = 5. Volume = 523.599
+484: It is Sphere: r = 5. Volume = 523.599
+485: It is Sphere: r = 5. Volume = 523.599
+486: It is Sphere: r = 5. Volume = 523.599
+487: It is Sphere: r = 5. Volume = 523.599
+488: It is Sphere: r = 5. Volume = 523.599
+489: It is Sphere: r = 5. Volume = 523.599
+490: It is Sphere: r = 5. Volume = 523.599
+491: It is Sphere: r = 5. Volume = 523.599
+492: It is Sphere: r = 5. Volume = 523.599
+493: It is Parallelepiped: a = 5, b = 6, c = 18. Volume = 540
+494: It is Parallelepiped: a = 12, b = 15, c = 3. Volume = 540
+495: It is Parallelepiped: a = 17, b = 3, c = 11. Volume = 561
+496: It is Parallelepiped: a = 10, b = 19, c = 3. Volume = 570
+497: It is Parallelepiped: a = 15, b = 19, c = 2. Volume = 570
+498: It is Parallelepiped: a = 16, b = 9, c = 4. Volume = 576
+499: It is Tetrahedron: a = 17. Volume = 579.003
+500: It is Tetrahedron: a = 17. Volume = 579.003
+501: It is Tetrahedron: a = 17. Volume = 579.003
+502: It is Tetrahedron: a = 17. Volume = 579.003
+503: It is Tetrahedron: a = 17. Volume = 579.003
+504: It is Tetrahedron: a = 17. Volume = 579.003
+505: It is Tetrahedron: a = 17. Volume = 579.003
+506: It is Tetrahedron: a = 17. Volume = 579.003
+507: It is Tetrahedron: a = 17. Volume = 579.003
+508: It is Tetrahedron: a = 17. Volume = 579.003
+509: It is Tetrahedron: a = 17. Volume = 579.003
+510: It is Tetrahedron: a = 17. Volume = 579.003
+511: It is Tetrahedron: a = 17. Volume = 579.003
+512: It is Tetrahedron: a = 17. Volume = 579.003
+513: It is Tetrahedron: a = 17. Volume = 579.003
+514: It is Tetrahedron: a = 17. Volume = 579.003
+515: It is Tetrahedron: a = 17. Volume = 579.003
+516: It is Tetrahedron: a = 17. Volume = 579.003
+517: It is Tetrahedron: a = 17. Volume = 579.003
+518: It is Tetrahedron: a = 17. Volume = 579.003
+519: It is Parallelepiped: a = 20, b = 5, c = 6. Volume = 600
+520: It is Parallelepiped: a = 5, b = 12, c = 10. Volume = 600
+521: It is Parallelepiped: a = 4, b = 10, c = 15. Volume = 600
+522: It is Parallelepiped: a = 2, b = 15, c = 20. Volume = 600
+523: It is Parallelepiped: a = 19, b = 8, c = 4. Volume = 608
+524: It is Parallelepiped: a = 14, b = 4, c = 11. Volume = 616
+525: It is Parallelepiped: a = 13, b = 6, c = 8. Volume = 624
+526: It is Parallelepiped: a = 11, b = 19, c = 3. Volume = 627
+527: It is Parallelepiped: a = 5, b = 16, c = 8. Volume = 640
+528: It is Parallelepiped: a = 12, b = 6, c = 9. Volume = 648
+529: It is Parallelepiped: a = 18, b = 12, c = 3. Volume = 648
+530: It is Parallelepiped: a = 4, b = 9, c = 18. Volume = 648
+531: It is Parallelepiped: a = 18, b = 9, c = 4. Volume = 648
+532: It is Parallelepiped: a = 8, b = 6, c = 14. Volume = 672
+533: It is Parallelepiped: a = 7, b = 16, c = 6. Volume = 672
+534: It is Parallelepiped: a = 7, b = 14, c = 7. Volume = 686
+535: It is Tetrahedron: a = 18. Volume = 687.308
+536: It is Tetrahedron: a = 18. Volume = 687.308
+537: It is Tetrahedron: a = 18. Volume = 687.308
+538: It is Tetrahedron: a = 18. Volume = 687.308
+539: It is Tetrahedron: a = 18. Volume = 687.308
+540: It is Tetrahedron: a = 18. Volume = 687.308
+541: It is Tetrahedron: a = 18. Volume = 687.308
+542: It is Tetrahedron: a = 18. Volume = 687.308
+543: It is Tetrahedron: a = 18. Volume = 687.308
+544: It is Tetrahedron: a = 18. Volume = 687.308
+545: It is Tetrahedron: a = 18. Volume = 687.308
+546: It is Tetrahedron: a = 18. Volume = 687.308
+547: It is Tetrahedron: a = 18. Volume = 687.308
+548: It is Tetrahedron: a = 18. Volume = 687.308
+549: It is Tetrahedron: a = 18. Volume = 687.308
+550: It is Tetrahedron: a = 18. Volume = 687.308
+551: It is Tetrahedron: a = 18. Volume = 687.308
+552: It is Tetrahedron: a = 18. Volume = 687.308
+553: It is Tetrahedron: a = 18. Volume = 687.308
+554: It is Parallelepiped: a = 9, b = 11, c = 7. Volume = 693
+555: It is Parallelepiped: a = 3, b = 18, c = 13. Volume = 702
+556: It is Parallelepiped: a = 14, b = 3, c = 17. Volume = 714
+557: It is Parallelepiped: a = 20, b = 4, c = 9. Volume = 720
+558: It is Parallelepiped: a = 8, b = 15, c = 6. Volume = 720
+559: It is Parallelepiped: a = 17, b = 4, c = 11. Volume = 748
+560: It is Parallelepiped: a = 11, b = 17, c = 4. Volume = 748
+561: It is Parallelepiped: a = 10, b = 15, c = 5. Volume = 750
+562: It is Parallelepiped: a = 10, b = 19, c = 4. Volume = 760
+563: It is Parallelepiped: a = 11, b = 10, c = 7. Volume = 770
+564: It is Parallelepiped: a = 5, b = 11, c = 14. Volume = 770
+565: It is Parallelepiped: a = 3, b = 19, c = 14. Volume = 798
+566: It is Parallelepiped: a = 5, b = 8, c = 20. Volume = 800
+567: It is Parallelepiped: a = 20, b = 8, c = 5. Volume = 800
+568: It is Tetrahedron: a = 19. Volume = 808.341
+569: It is Tetrahedron: a = 19. Volume = 808.341
+570: It is Tetrahedron: a = 19. Volume = 808.341
+571: It is Tetrahedron: a = 19. Volume = 808.341
+572: It is Tetrahedron: a = 19. Volume = 808.341
+573: It is Tetrahedron: a = 19. Volume = 808.341
+574: It is Tetrahedron: a = 19. Volume = 808.341
+575: It is Tetrahedron: a = 19. Volume = 808.341
+576: It is Tetrahedron: a = 19. Volume = 808.341
+577: It is Tetrahedron: a = 19. Volume = 808.341
+578: It is Tetrahedron: a = 19. Volume = 808.341
+579: It is Tetrahedron: a = 19. Volume = 808.341
+580: It is Tetrahedron: a = 19. Volume = 808.341
+581: It is Tetrahedron: a = 19. Volume = 808.341
+582: It is Tetrahedron: a = 19. Volume = 808.341
+583: It is Tetrahedron: a = 19. Volume = 808.341
+584: It is Tetrahedron: a = 19. Volume = 808.341
+585: It is Tetrahedron: a = 19. Volume = 808.341
+586: It is Tetrahedron: a = 19. Volume = 808.341
+587: It is Tetrahedron: a = 19. Volume = 808.341
+588: It is Tetrahedron: a = 19. Volume = 808.341
+589: It is Tetrahedron: a = 19. Volume = 808.341
+590: It is Tetrahedron: a = 19. Volume = 808.341
+591: It is Parallelepiped: a = 18, b = 15, c = 3. Volume = 810
+592: It is Parallelepiped: a = 9, b = 7, c = 13. Volume = 819
+593: It is Parallelepiped: a = 8, b = 8, c = 13. Volume = 832
+594: It is Parallelepiped: a = 14, b = 5, c = 12. Volume = 840
+595: It is Parallelepiped: a = 11, b = 11, c = 7. Volume = 847
+596: It is Parallelepiped: a = 6, b = 11, c = 13. Volume = 858
+597: It is Parallelepiped: a = 11, b = 4, c = 20. Volume = 880
+598: It is Parallelepiped: a = 4, b = 20, c = 11. Volume = 880
+599: It is Parallelepiped: a = 9, b = 14, c = 7. Volume = 882
+600: It is Parallelepiped: a = 14, b = 8, c = 8. Volume = 896
+601: It is Parallelepiped: a = 6, b = 10, c = 15. Volume = 900
+602: It is Sphere: r = 6. Volume = 904.779
+603: It is Sphere: r = 6. Volume = 904.779
+604: It is Sphere: r = 6. Volume = 904.779
+605: It is Sphere: r = 6. Volume = 904.779
+606: It is Sphere: r = 6. Volume = 904.779
+607: It is Sphere: r = 6. Volume = 904.779
+608: It is Sphere: r = 6. Volume = 904.779
+609: It is Sphere: r = 6. Volume = 904.779
+610: It is Sphere: r = 6. Volume = 904.779
+611: It is Sphere: r = 6. Volume = 904.779
+612: It is Sphere: r = 6. Volume = 904.779
+613: It is Sphere: r = 6. Volume = 904.779
+614: It is Sphere: r = 6. Volume = 904.779
+615: It is Sphere: r = 6. Volume = 904.779
+616: It is Sphere: r = 6. Volume = 904.779
+617: It is Sphere: r = 6. Volume = 904.779
+618: It is Parallelepiped: a = 19, b = 3, c = 16. Volume = 912
+619: It is Parallelepiped: a = 4, b = 18, c = 13. Volume = 936
+620: It is Tetrahedron: a = 20. Volume = 942.809
+621: It is Tetrahedron: a = 20. Volume = 942.809
+622: It is Tetrahedron: a = 20. Volume = 942.809
+623: It is Tetrahedron: a = 20. Volume = 942.809
+624: It is Tetrahedron: a = 20. Volume = 942.809
+625: It is Tetrahedron: a = 20. Volume = 942.809
+626: It is Tetrahedron: a = 20. Volume = 942.809
+627: It is Tetrahedron: a = 20. Volume = 942.809
+628: It is Tetrahedron: a = 20. Volume = 942.809
+629: It is Tetrahedron: a = 20. Volume = 942.809
+630: It is Tetrahedron: a = 20. Volume = 942.809
+631: It is Tetrahedron: a = 20. Volume = 942.809
+632: It is Tetrahedron: a = 20. Volume = 942.809
+633: It is Tetrahedron: a = 20. Volume = 942.809
+634: It is Tetrahedron: a = 20. Volume = 942.809
+635: It is Tetrahedron: a = 20. Volume = 942.809
+636: It is Tetrahedron: a = 20. Volume = 942.809
+637: It is Tetrahedron: a = 20. Volume = 942.809
+638: It is Tetrahedron: a = 20. Volume = 942.809
+639: It is Tetrahedron: a = 20. Volume = 942.809
+640: It is Parallelepiped: a = 4, b = 15, c = 16. Volume = 960
+641: It is Parallelepiped: a = 6, b = 16, c = 10. Volume = 960
+642: It is Parallelepiped: a = 4, b = 19, c = 13. Volume = 988
+643: It is Parallelepiped: a = 11, b = 9, c = 10. Volume = 990
+644: It is Parallelepiped: a = 9, b = 11, c = 10. Volume = 990
+645: It is Parallelepiped: a = 6, b = 14, c = 12. Volume = 1008
+646: It is Parallelepiped: a = 17, b = 6, c = 10. Volume = 1020
+647: It is Parallelepiped: a = 6, b = 17, c = 10. Volume = 1020
+648: It is Parallelepiped: a = 5, b = 13, c = 16. Volume = 1040
+649: It is Parallelepiped: a = 15, b = 10, c = 7. Volume = 1050
+650: It is Parallelepiped: a = 8, b = 19, c = 7. Volume = 1064
+651: It is Parallelepiped: a = 14, b = 7, c = 11. Volume = 1078
+652: It is Parallelepiped: a = 9, b = 20, c = 6. Volume = 1080
+653: It is Parallelepiped: a = 10, b = 12, c = 9. Volume = 1080
+654: It is Parallelepiped: a = 14, b = 13, c = 6. Volume = 1092
+655: It is Parallelepiped: a = 14, b = 13, c = 6. Volume = 1092
+656: It is Parallelepiped: a = 14, b = 4, c = 20. Volume = 1120
+657: It is Parallelepiped: a = 14, b = 16, c = 5. Volume = 1120
+658: It is Parallelepiped: a = 5, b = 12, c = 19. Volume = 1140
+659: It is Parallelepiped: a = 19, b = 15, c = 4. Volume = 1140
+660: It is Parallelepiped: a = 3, b = 19, c = 20. Volume = 1140
+661: It is Parallelepiped: a = 17, b = 4, c = 17. Volume = 1156
+662: It is Parallelepiped: a = 6, b = 11, c = 18. Volume = 1188
+663: It is Parallelepiped: a = 7, b = 19, c = 9. Volume = 1197
+664: It is Parallelepiped: a = 15, b = 10, c = 8. Volume = 1200
+665: It is Parallelepiped: a = 4, b = 17, c = 18. Volume = 1224
+666: It is Parallelepiped: a = 18, b = 7, c = 10. Volume = 1260
+667: It is Parallelepiped: a = 11, b = 13, c = 9. Volume = 1287
+668: It is Parallelepiped: a = 6, b = 17, c = 13. Volume = 1326
+669: It is Parallelepiped: a = 12, b = 16, c = 7. Volume = 1344
+670: It is Parallelepiped: a = 6, b = 16, c = 14. Volume = 1344
+671: It is Parallelepiped: a = 20, b = 17, c = 4. Volume = 1360
+672: It is Parallelepiped: a = 13, b = 15, c = 7. Volume = 1365
+673: It is Parallelepiped: a = 11, b = 14, c = 9. Volume = 1386
+674: It is Parallelepiped: a = 14, b = 10, c = 10. Volume = 1400
+675: It is Sphere: r = 7. Volume = 1436.76
+676: It is Sphere: r = 7. Volume = 1436.76
+677: It is Sphere: r = 7. Volume = 1436.76
+678: It is Sphere: r = 7. Volume = 1436.76
+679: It is Sphere: r = 7. Volume = 1436.76
+680: It is Sphere: r = 7. Volume = 1436.76
+681: It is Sphere: r = 7. Volume = 1436.76
+682: It is Sphere: r = 7. Volume = 1436.76
+683: It is Sphere: r = 7. Volume = 1436.76
+684: It is Sphere: r = 7. Volume = 1436.76
+685: It is Sphere: r = 7. Volume = 1436.76
+686: It is Sphere: r = 7. Volume = 1436.76
+687: It is Sphere: r = 7. Volume = 1436.76
+688: It is Sphere: r = 7. Volume = 1436.76
+689: It is Parallelepiped: a = 8, b = 9, c = 20. Volume = 1440
+690: It is Parallelepiped: a = 20, b = 6, c = 12. Volume = 1440
+691: It is Parallelepiped: a = 9, b = 20, c = 8. Volume = 1440
+692: It is Parallelepiped: a = 15, b = 12, c = 8. Volume = 1440
+693: It is Parallelepiped: a = 15, b = 10, c = 10. Volume = 1500
+694: It is Parallelepiped: a = 15, b = 20, c = 5. Volume = 1500
+695: It is Parallelepiped: a = 14, b = 6, c = 18. Volume = 1512
+696: It is Parallelepiped: a = 6, b = 14, c = 18. Volume = 1512
+697: It is Parallelepiped: a = 11, b = 10, c = 14. Volume = 1540
+698: It is Parallelepiped: a = 20, b = 11, c = 7. Volume = 1540
+699: It is Parallelepiped: a = 13, b = 17, c = 7. Volume = 1547
+700: It is Parallelepiped: a = 13, b = 10, c = 12. Volume = 1560
+701: It is Parallelepiped: a = 14, b = 8, c = 14. Volume = 1568
+702: It is Parallelepiped: a = 8, b = 11, c = 18. Volume = 1584
+703: It is Parallelepiped: a = 18, b = 13, c = 7. Volume = 1638
+704: It is Parallelepiped: a = 9, b = 13, c = 14. Volume = 1638
+705: It is Parallelepiped: a = 14, b = 12, c = 10. Volume = 1680
+706: It is Parallelepiped: a = 10, b = 14, c = 12. Volume = 1680
+707: It is Parallelepiped: a = 20, b = 14, c = 6. Volume = 1680
+708: It is Parallelepiped: a = 9, b = 11, c = 17. Volume = 1683
+709: It is Parallelepiped: a = 17, b = 20, c = 5. Volume = 1700
+710: It is Parallelepiped: a = 9, b = 13, c = 15. Volume = 1755
+711: It is Parallelepiped: a = 16, b = 10, c = 11. Volume = 1760
+712: It is Parallelepiped: a = 7, b = 14, c = 18. Volume = 1764
+713: It is Parallelepiped: a = 11, b = 18, c = 9. Volume = 1782
+714: It is Parallelepiped: a = 20, b = 10, c = 9. Volume = 1800
+715: It is Parallelepiped: a = 7, b = 13, c = 20. Volume = 1820
+716: It is Parallelepiped: a = 16, b = 19, c = 6. Volume = 1824
+717: It is Parallelepiped: a = 18, b = 17, c = 6. Volume = 1836
+718: It is Parallelepiped: a = 12, b = 11, c = 14. Volume = 1848
+719: It is Parallelepiped: a = 17, b = 10, c = 11. Volume = 1870
+720: It is Parallelepiped: a = 19, b = 9, c = 11. Volume = 1881
+721: It is Parallelepiped: a = 8, b = 12, c = 20. Volume = 1920
+722: It is Parallelepiped: a = 13, b = 15, c = 10. Volume = 1950
+723: It is Parallelepiped: a = 8, b = 18, c = 14. Volume = 2016
+724: It is Parallelepiped: a = 9, b = 15, c = 15. Volume = 2025
+725: It is Parallelepiped: a = 13, b = 12, c = 13. Volume = 2028
+726: It is Parallelepiped: a = 12, b = 17, c = 10. Volume = 2040
+727: It is Parallelepiped: a = 11, b = 16, c = 12. Volume = 2112
+728: It is Parallelepiped: a = 14, b = 8, c = 19. Volume = 2128
+729: It is Sphere: r = 8. Volume = 2144.66
+730: It is Sphere: r = 8. Volume = 2144.66
+731: It is Sphere: r = 8. Volume = 2144.66
+732: It is Sphere: r = 8. Volume = 2144.66
+733: It is Sphere: r = 8. Volume = 2144.66
+734: It is Sphere: r = 8. Volume = 2144.66
+735: It is Sphere: r = 8. Volume = 2144.66
+736: It is Sphere: r = 8. Volume = 2144.66
+737: It is Sphere: r = 8. Volume = 2144.66
+738: It is Sphere: r = 8. Volume = 2144.66
+739: It is Sphere: r = 8. Volume = 2144.66
+740: It is Sphere: r = 8. Volume = 2144.66
+741: It is Sphere: r = 8. Volume = 2144.66
+742: It is Sphere: r = 8. Volume = 2144.66
+743: It is Parallelepiped: a = 16, b = 8, c = 17. Volume = 2176
+744: It is Parallelepiped: a = 7, b = 20, c = 16. Volume = 2240
+745: It is Parallelepiped: a = 19, b = 8, c = 15. Volume = 2280
+746: It is Parallelepiped: a = 15, b = 17, c = 9. Volume = 2295
+747: It is Parallelepiped: a = 9, b = 15, c = 17. Volume = 2295
+748: It is Parallelepiped: a = 13, b = 12, c = 15. Volume = 2340
+749: It is Parallelepiped: a = 12, b = 11, c = 18. Volume = 2376
+750: It is Parallelepiped: a = 12, b = 20, c = 10. Volume = 2400
+751: It is Parallelepiped: a = 15, b = 16, c = 10. Volume = 2400
+752: It is Parallelepiped: a = 14, b = 16, c = 11. Volume = 2464
+753: It is Parallelepiped: a = 14, b = 16, c = 11. Volume = 2464
+754: It is Parallelepiped: a = 16, b = 9, c = 18. Volume = 2592
+755: It is Parallelepiped: a = 14, b = 19, c = 10. Volume = 2660
+756: It is Parallelepiped: a = 10, b = 19, c = 14. Volume = 2660
+757: It is Parallelepiped: a = 15, b = 20, c = 9. Volume = 2700
+758: It is Parallelepiped: a = 9, b = 20, c = 15. Volume = 2700
+759: It is Parallelepiped: a = 14, b = 10, c = 20. Volume = 2800
+760: It is Parallelepiped: a = 16, b = 18, c = 10. Volume = 2880
+761: It is Parallelepiped: a = 12, b = 16, c = 15. Volume = 2880
+762: It is Parallelepiped: a = 17, b = 19, c = 9. Volume = 2907
+763: It is Parallelepiped: a = 9, b = 19, c = 17. Volume = 2907
+764: It is Parallelepiped: a = 19, b = 20, c = 8. Volume = 3040
+765: It is Sphere: r = 9. Volume = 3053.63
+766: It is Sphere: r = 9. Volume = 3053.63
+767: It is Sphere: r = 9. Volume = 3053.63
+768: It is Sphere: r = 9. Volume = 3053.63
+769: It is Sphere: r = 9. Volume = 3053.63
+770: It is Sphere: r = 9. Volume = 3053.63
+771: It is Sphere: r = 9. Volume = 3053.63
+772: It is Sphere: r = 9. Volume = 3053.63
+773: It is Sphere: r = 9. Volume = 3053.63
+774: It is Sphere: r = 9. Volume = 3053.63
+775: It is Sphere: r = 9. Volume = 3053.63
+776: It is Sphere: r = 9. Volume = 3053.63
+777: It is Sphere: r = 9. Volume = 3053.63
+778: It is Parallelepiped: a = 9, b = 19, c = 18. Volume = 3078
+779: It is Parallelepiped: a = 20, b = 14, c = 11. Volume = 3080
+780: It is Parallelepiped: a = 12, b = 13, c = 20. Volume = 3120
+781: It is Parallelepiped: a = 11, b = 16, c = 18. Volume = 3168
+782: It is Parallelepiped: a = 11, b = 20, c = 15. Volume = 3300
+783: It is Parallelepiped: a = 19, b = 12, c = 15. Volume = 3420
+784: It is Parallelepiped: a = 13, b = 19, c = 15. Volume = 3705
+785: It is Parallelepiped: a = 14, b = 15, c = 18. Volume = 3780
+786: It is Parallelepiped: a = 15, b = 16, c = 16. Volume = 3840
+787: It is Parallelepiped: a = 12, b = 18, c = 18. Volume = 3888
+788: It is Parallelepiped: a = 19, b = 13, c = 16. Volume = 3952
+789: It is Parallelepiped: a = 16, b = 19, c = 13. Volume = 3952
+790: It is Parallelepiped: a = 14, b = 19, c = 15. Volume = 3990
+791: It is Parallelepiped: a = 14, b = 16, c = 18. Volume = 4032
+792: It is Sphere: r = 10. Volume = 4188.79
+793: It is Sphere: r = 10. Volume = 4188.79
+794: It is Sphere: r = 10. Volume = 4188.79
+795: It is Sphere: r = 10. Volume = 4188.79
+796: It is Sphere: r = 10. Volume = 4188.79
+797: It is Sphere: r = 10. Volume = 4188.79
+798: It is Sphere: r = 10. Volume = 4188.79
+799: It is Sphere: r = 10. Volume = 4188.79
+800: It is Sphere: r = 10. Volume = 4188.79
+801: It is Sphere: r = 10. Volume = 4188.79
+802: It is Sphere: r = 10. Volume = 4188.79
+803: It is Sphere: r = 10. Volume = 4188.79
+804: It is Sphere: r = 10. Volume = 4188.79
+805: It is Parallelepiped: a = 19, b = 17, c = 13. Volume = 4199
+806: It is Parallelepiped: a = 18, b = 14, c = 18. Volume = 4536
+807: It is Parallelepiped: a = 15, b = 19, c = 16. Volume = 4560
+808: It is Parallelepiped: a = 14, b = 17, c = 20. Volume = 4760
+809: It is Parallelepiped: a = 18, b = 14, c = 19. Volume = 4788
+810: It is Parallelepiped: a = 19, b = 14, c = 19. Volume = 5054
+811: It is Parallelepiped: a = 17, b = 17, c = 18. Volume = 5202
+812: It is Parallelepiped: a = 19, b = 19, c = 15. Volume = 5415
+813: It is Sphere: r = 11. Volume = 5575.28
+814: It is Sphere: r = 11. Volume = 5575.28
+815: It is Sphere: r = 11. Volume = 5575.28
+816: It is Sphere: r = 11. Volume = 5575.28
+817: It is Sphere: r = 11. Volume = 5575.28
+818: It is Sphere: r = 11. Volume = 5575.28
+819: It is Sphere: r = 11. Volume = 5575.28
+820: It is Sphere: r = 11. Volume = 5575.28
+821: It is Sphere: r = 11. Volume = 5575.28
+822: It is Sphere: r = 11. Volume = 5575.28
+823: It is Sphere: r = 11. Volume = 5575.28
+824: It is Sphere: r = 11. Volume = 5575.28
+825: It is Sphere: r = 11. Volume = 5575.28
+826: It is Sphere: r = 11. Volume = 5575.28
+827: It is Sphere: r = 11. Volume = 5575.28
+828: It is Sphere: r = 11. Volume = 5575.28
+829: It is Sphere: r = 11. Volume = 5575.28
+830: It is Sphere: r = 11. Volume = 5575.28
+831: It is Sphere: r = 11. Volume = 5575.28
+832: It is Sphere: r = 11. Volume = 5575.28
+833: It is Sphere: r = 11. Volume = 5575.28
+834: It is Parallelepiped: a = 20, b = 15, c = 20. Volume = 6000
+835: It is Sphere: r = 12. Volume = 7238.23
+836: It is Sphere: r = 12. Volume = 7238.23
+837: It is Sphere: r = 12. Volume = 7238.23
+838: It is Sphere: r = 12. Volume = 7238.23
+839: It is Sphere: r = 12. Volume = 7238.23
+840: It is Sphere: r = 12. Volume = 7238.23
+841: It is Sphere: r = 12. Volume = 7238.23
+842: It is Sphere: r = 12. Volume = 7238.23
+843: It is Sphere: r = 12. Volume = 7238.23
+844: It is Sphere: r = 12. Volume = 7238.23
+845: It is Sphere: r = 12. Volume = 7238.23
+846: It is Sphere: r = 12. Volume = 7238.23
+847: It is Sphere: r = 12. Volume = 7238.23
+848: It is Sphere: r = 12. Volume = 7238.23
+849: It is Sphere: r = 13. Volume = 9202.77
+850: It is Sphere: r = 13. Volume = 9202.77
+851: It is Sphere: r = 13. Volume = 9202.77
+852: It is Sphere: r = 13. Volume = 9202.77
+853: It is Sphere: r = 13. Volume = 9202.77
+854: It is Sphere: r = 13. Volume = 9202.77
+855: It is Sphere: r = 13. Volume = 9202.77
+856: It is Sphere: r = 13. Volume = 9202.77
+857: It is Sphere: r = 13. Volume = 9202.77
+858: It is Sphere: r = 13. Volume = 9202.77
+859: It is Sphere: r = 13. Volume = 9202.77
+860: It is Sphere: r = 13. Volume = 9202.77
+861: It is Sphere: r = 13. Volume = 9202.77
+862: It is Sphere: r = 13. Volume = 9202.77
+863: It is Sphere: r = 13. Volume = 9202.77
+864: It is Sphere: r = 13. Volume = 9202.77
+865: It is Sphere: r = 13. Volume = 9202.77
+866: It is Sphere: r = 13. Volume = 9202.77
+867: It is Sphere: r = 14. Volume = 11494
+868: It is Sphere: r = 14. Volume = 11494
+869: It is Sphere: r = 14. Volume = 11494
+870: It is Sphere: r = 14. Volume = 11494
+871: It is Sphere: r = 14. Volume = 11494
+872: It is Sphere: r = 14. Volume = 11494
+873: It is Sphere: r = 14. Volume = 11494
+874: It is Sphere: r = 14. Volume = 11494
+875: It is Sphere: r = 14. Volume = 11494
+876: It is Sphere: r = 14. Volume = 11494
+877: It is Sphere: r = 14. Volume = 11494
+878: It is Sphere: r = 14. Volume = 11494
+879: It is Sphere: r = 14. Volume = 11494
+880: It is Sphere: r = 14. Volume = 11494
+881: It is Sphere: r = 14. Volume = 11494
+882: It is Sphere: r = 14. Volume = 11494
+883: It is Sphere: r = 14. Volume = 11494
+884: It is Sphere: r = 14. Volume = 11494
+885: It is Sphere: r = 14. Volume = 11494
+886: It is Sphere: r = 14. Volume = 11494
+887: It is Sphere: r = 14. Volume = 11494
+888: It is Sphere: r = 14. Volume = 11494
+889: It is Sphere: r = 14. Volume = 11494
+890: It is Sphere: r = 14. Volume = 11494
+891: It is Sphere: r = 15. Volume = 14137.2
+892: It is Sphere: r = 15. Volume = 14137.2
+893: It is Sphere: r = 15. Volume = 14137.2
+894: It is Sphere: r = 15. Volume = 14137.2
+895: It is Sphere: r = 15. Volume = 14137.2
+896: It is Sphere: r = 15. Volume = 14137.2
+897: It is Sphere: r = 15. Volume = 14137.2
+898: It is Sphere: r = 15. Volume = 14137.2
+899: It is Sphere: r = 15. Volume = 14137.2
+900: It is Sphere: r = 15. Volume = 14137.2
+901: It is Sphere: r = 15. Volume = 14137.2
+902: It is Sphere: r = 15. Volume = 14137.2
+903: It is Sphere: r = 15. Volume = 14137.2
+904: It is Sphere: r = 15. Volume = 14137.2
+905: It is Sphere: r = 15. Volume = 14137.2
+906: It is Sphere: r = 15. Volume = 14137.2
+907: It is Sphere: r = 15. Volume = 14137.2
+908: It is Sphere: r = 15. Volume = 14137.2
+909: It is Sphere: r = 15. Volume = 14137.2
+910: It is Sphere: r = 15. Volume = 14137.2
+911: It is Sphere: r = 15. Volume = 14137.2
+912: It is Sphere: r = 15. Volume = 14137.2
+913: It is Sphere: r = 16. Volume = 17157.3
+914: It is Sphere: r = 16. Volume = 17157.3
+915: It is Sphere: r = 16. Volume = 17157.3
+916: It is Sphere: r = 16. Volume = 17157.3
+917: It is Sphere: r = 16. Volume = 17157.3
+918: It is Sphere: r = 16. Volume = 17157.3
+919: It is Sphere: r = 16. Volume = 17157.3
+920: It is Sphere: r = 16. Volume = 17157.3
+921: It is Sphere: r = 16. Volume = 17157.3
+922: It is Sphere: r = 16. Volume = 17157.3
+923: It is Sphere: r = 16. Volume = 17157.3
+924: It is Sphere: r = 16. Volume = 17157.3
+925: It is Sphere: r = 16. Volume = 17157.3
+926: It is Sphere: r = 16. Volume = 17157.3
+927: It is Sphere: r = 16. Volume = 17157.3
+928: It is Sphere: r = 16. Volume = 17157.3
+929: It is Sphere: r = 16. Volume = 17157.3
+930: It is Sphere: r = 16. Volume = 17157.3
+931: It is Sphere: r = 16. Volume = 17157.3
+932: It is Sphere: r = 16. Volume = 17157.3
+933: It is Sphere: r = 16. Volume = 17157.3
+934: It is Sphere: r = 16. Volume = 17157.3
+935: It is Sphere: r = 16. Volume = 17157.3
+936: It is Sphere: r = 17. Volume = 20579.5
+937: It is Sphere: r = 17. Volume = 20579.5
+938: It is Sphere: r = 17. Volume = 20579.5
+939: It is Sphere: r = 17. Volume = 20579.5
+940: It is Sphere: r = 17. Volume = 20579.5
+941: It is Sphere: r = 17. Volume = 20579.5
+942: It is Sphere: r = 17. Volume = 20579.5
+943: It is Sphere: r = 17. Volume = 20579.5
+944: It is Sphere: r = 17. Volume = 20579.5
+945: It is Sphere: r = 17. Volume = 20579.5
+946: It is Sphere: r = 17. Volume = 20579.5
+947: It is Sphere: r = 17. Volume = 20579.5
+948: It is Sphere: r = 17. Volume = 20579.5
+949: It is Sphere: r = 17. Volume = 20579.5
+950: It is Sphere: r = 17. Volume = 20579.5
+951: It is Sphere: r = 18. Volume = 24429
+952: It is Sphere: r = 18. Volume = 24429
+953: It is Sphere: r = 18. Volume = 24429
+954: It is Sphere: r = 18. Volume = 24429
+955: It is Sphere: r = 18. Volume = 24429
+956: It is Sphere: r = 18. Volume = 24429
+957: It is Sphere: r = 18. Volume = 24429
+958: It is Sphere: r = 18. Volume = 24429
+959: It is Sphere: r = 18. Volume = 24429
+960: It is Sphere: r = 18. Volume = 24429
+961: It is Sphere: r = 18. Volume = 24429
+962: It is Sphere: r = 18. Volume = 24429
+963: It is Sphere: r = 18. Volume = 24429
+964: It is Sphere: r = 18. Volume = 24429
+965: It is Sphere: r = 18. Volume = 24429
+966: It is Sphere: r = 18. Volume = 24429
+967: It is Sphere: r = 18. Volume = 24429
+968: It is Sphere: r = 18. Volume = 24429
+969: It is Sphere: r = 19. Volume = 28730.9
+970: It is Sphere: r = 19. Volume = 28730.9
+971: It is Sphere: r = 19. Volume = 28730.9
+972: It is Sphere: r = 19. Volume = 28730.9
+973: It is Sphere: r = 19. Volume = 28730.9
+974: It is Sphere: r = 19. Volume = 28730.9
+975: It is Sphere: r = 19. Volume = 28730.9
+976: It is Sphere: r = 19. Volume = 28730.9
+977: It is Sphere: r = 19. Volume = 28730.9
+978: It is Sphere: r = 19. Volume = 28730.9
+979: It is Sphere: r = 19. Volume = 28730.9
+980: It is Sphere: r = 19. Volume = 28730.9
+981: It is Sphere: r = 19. Volume = 28730.9
+982: It is Sphere: r = 19. Volume = 28730.9
+983: It is Sphere: r = 20. Volume = 33510.3
+984: It is Sphere: r = 20. Volume = 33510.3
+985: It is Sphere: r = 20. Volume = 33510.3
+986: It is Sphere: r = 20. Volume = 33510.3
+987: It is Sphere: r = 20. Volume = 33510.3
+988: It is Sphere: r = 20. Volume = 33510.3
+989: It is Sphere: r = 20. Volume = 33510.3
+990: It is Sphere: r = 20. Volume = 33510.3
+991: It is Sphere: r = 20. Volume = 33510.3
+992: It is Sphere: r = 20. Volume = 33510.3
+993: It is Sphere: r = 20. Volume = 33510.3
+994: It is Sphere: r = 20. Volume = 33510.3
+995: It is Sphere: r = 20. Volume = 33510.3
+996: It is Sphere: r = 20. Volume = 33510.3
+997: It is Sphere: r = 20. Volume = 33510.3
+998: It is Sphere: r = 20. Volume = 33510.3
+999: It is Sphere: r = 20. Volume = 33510.3
